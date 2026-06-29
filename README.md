@@ -6,3 +6,4 @@ pashter
 pusat madiun
 pencak
 ipsi
+persaudaraan
