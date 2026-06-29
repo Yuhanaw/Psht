@@ -7,3 +7,4 @@ pusat madiun
 pencak
 ipsi
 persaudaraan
+lotus
