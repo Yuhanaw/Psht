@@ -2,3 +2,4 @@
 terate
 # Psht
 ashter
+pashter
