@@ -10,3 +10,4 @@ persaudaraan
 lotus
 sh
 # setia hati
+# sh terate
