@@ -9,3 +9,4 @@ ipsi
 persaudaraan
 lotus
 sh
+# setia hati
